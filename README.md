@@ -1,5 +1,5 @@
 # PRFF codes in python
-This repository contains the codes of Pseudo Random Fourier Features for Approximating RBF kernels. The potential of this method is demonstrated in the classification and regression tasks.
+This repository contains the codes of Pseudo Random Fourier Features for Approximating RBF kernels in a data dependent manner. The potential of this method is demonstrated in the classification and regression tasks.
 
 For details of this method, please refer to: [Data Dependent Kernel Approximation using Pseudo Random Fourier Features](https://arxiv.org/abs/1711.09783)
 
