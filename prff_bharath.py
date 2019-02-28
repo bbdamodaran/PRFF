@@ -7,7 +7,9 @@ from sklearn.base import clone
 import pylab
 from GradientDescentMethods import AdaptiveLearningRateErrorCheck,philippe_AdaptiveLearningRateErrorCheck
 from GradientDescentMethods import Gradientdescent
+__author__ = 'Bharath Bhushan Damodaran, bharath-bhushan.damodaran@irisa.fr
 __author__ = 'Romain Tavenard romain.tavenard[at]univ-rennes2.fr'
+
 
 
 class PRFF_Bharath(RBFSampler):
